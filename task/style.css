@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+nav {
+    height: 40px;
+    background-image: -webkit-linear-gradient(top, #333333, #222222);
+    box-shadow: 0 1px 3px rgb(0 0 0 / 25%), inset 0 -1px 0 rgb(0 0 0 / 10%);
+
+}
+
+nav .navbar {
+    padding-left: 20px;
+    left: 30px;
+
+
+
+}
+
+main .container {
+    bottom: 0px;
+    margin-top: 20px;
+    font-size: 18px;
+    height: ;
+    font-weight: 400;
+    margin-bottom: 30px;
+    color: #333333;
+    padding: 60px;
+    background-color: #eeeeee
+}
+
+nav .navbar:hover {
+    color: rgb(29, 41, 37);
+}
+
+main .container h1 {
+    margin-bottom: 0;
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: inherit;
+}
+
+main .container p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+main .row {
+    position: absolute;
+}
